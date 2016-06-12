@@ -1,8 +1,8 @@
 
-ag-Grid React Example
+CRM react bootstrap datagrid example
 ==============
 
-Example of running ag-Grid inside React application.
+Example of running data-grid inside React and bootstrap application.
 
 See the [www.ag-grid.com](http://www.ag-grid.com).
 
