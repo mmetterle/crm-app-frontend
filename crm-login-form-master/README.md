@@ -1,8 +1,8 @@
 
-ag-Grid React Example
+CRM Login React Example
 ==============
 
-Example of running ag-Grid inside React application.
+Example of login page inside React and Bootstrap application.
 
 See the [www.ag-grid.com](http://www.ag-grid.com).
 
