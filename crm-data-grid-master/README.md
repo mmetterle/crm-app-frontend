@@ -2,10 +2,7 @@
 CRM react bootstrap datagrid example
 ==============
 
-Example of running data-grid inside React and bootstrap application.
-
-See the [www.ag-grid.com](http://www.ag-grid.com).
-
+Example of running data-grid inside React and bootstrap application. This is an example data-grid component built with react and react-bootstrap. This is one of many components that will encompass the CRM (Customer Relationship Management) application. 
 
 Building
 ==============
