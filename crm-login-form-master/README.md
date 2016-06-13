@@ -2,10 +2,7 @@
 CRM Login React Example
 ==============
 
-Example of login page inside React and Bootstrap application.
-
-See the [www.ag-grid.com](http://www.ag-grid.com).
-
+Example of login page inside React and Bootstrap application. This is an example login-page built with react and react-bootstrap. This is one of many components that will encompass the CRM (Customer Relationship Management) application. This is still a work in progress.
 
 Building
 ==============
